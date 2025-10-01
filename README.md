@@ -25,6 +25,8 @@ It provides a number of features that make it easy to build fast, SEO-friendly, 
 - Deployment to a variety of [hosting platforms](https://nuxt.com/deploy)
 - ...[and much more](https://nuxt.com) 🚀
 
+# Nuxt UI Free Is Releases !!!
+
 ### Table of Contents
 
 - 🚀 [Getting Started](#getting-started)
